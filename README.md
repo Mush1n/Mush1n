@@ -1,46 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d259e&height=120&section=header"/>
+## My Profile
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e52674&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tran+Duy+Man;I'm+21+years+old;I'm+from+Vietnam;I+Graduated+As+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Now you can add this to your markdown
+```
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mush1n&bg_color=0d1117&color=ed7dea&line=e52674&point=2a2b4b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mush1n&theme=synthwave&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+### Each card usage
+---
 
+![](./0-profile-details.svg)
 
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/0-profile-details.svg)
+```
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mush1n&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mushin github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mush1n&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+    
 
+---
 
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![](./1-repos-per-language.svg)
 
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/1-repos-per-language.svg)
+```
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+    
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mush1n}/count.svg" /></p> 
-<br>
-</div>
+---
 
+![](./2-most-commit-language.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/synthwave/4-productive-time.svg)
+```
+
+    
