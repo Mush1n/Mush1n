@@ -10,7 +10,7 @@ I do content on Design and Web Development. I really enjoy learning languages an
 * ✉️  You can contact me at [lazasa2002@gmail.com](mailto:lazasa2002@gmail.com)
 * 🧠  I'm learning Frontend and a little bit of Python
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  i sometime plays CS2
+* ⚡  i sometime plays CS2 and R6s
 
 <a href="https://www.github.com/Ryuu43" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ryuu43?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a><a href="https://www.twitter.com/tr4nduym4n" target="_blank" rel="noreferrer"><img
