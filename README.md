@@ -75,7 +75,7 @@
 	<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
 	<div align="center">
 		<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&redirect=true">
-			<img src="https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="260px">
+			[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 		</a>
 	</div>
 </div>
