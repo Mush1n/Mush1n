@@ -33,10 +33,10 @@
  <!-- <a href="https://dev.to/Ryuu43" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Ryuu43" />
  </a> -->
- <a href="https://twitter.com/_Ryuu43" target="_blank">
+ <a href="https://twitter.com/Ryuu43Dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_Ryuu43" target="_blank">
+ <a href="https://instagram.com/Ryuu43.dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ryuu43" />
  </a> 
  <a href="https://facebook.com/Ryuu43.dev" target="_blank">
