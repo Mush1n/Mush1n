@@ -72,8 +72,11 @@
 		<a href="https://wakatime.com/@018b410d-fa7b-44ba-a5de-f025fcbeb499"><img src="https://wakatime.com/badge/user/018b410d-fa7b-44ba-a5de-f025fcbeb499.svg?style=for-the-badge" alt="Total time coded since Oct 18 2023" /></a>
 	</div>
 	<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
+	<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
 	<div align="center">
-		[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+		<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&redirect=true">
+			<img src="https://spotify-github-profile.vercel.app/api/view?uid=31pjhnc6gubbh2bsudjl7rqezn5q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="260px">
+		</a>
 	</div>
 </div>
 
