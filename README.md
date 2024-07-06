@@ -53,7 +53,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🎮 &emsp; Sometimes I play R6S<br/><br/>
+ 🎮 &emsp; Sometimes I play CS2<br/><br/>
  📧 &emsp; Reach me anytime: Ryuu43.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Ryuu43/Ryuu43/issues)
 
