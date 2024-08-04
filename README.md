@@ -17,7 +17,7 @@
 <samp>
 <a href="https://www.google.com/search?q=Ryuu43">「GoogleMe」</a>
 <br>
-「Iamafullstackwebapplicationdeveloperfrom<b>Vietnam</b>」
+「Iamadeveloperfrom<b>Vietnam</b>」
 <br>
 <br>
 </samp>
